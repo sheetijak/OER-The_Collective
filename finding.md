@@ -15,7 +15,7 @@ With these evaluation tools in mind, there are a wide variety of OERs to explore
 
 * OpenStax College, which has an impressive collection of OER textbooks for a variety of introductory classes: <http://openstaxcollege.org>
 
-*Lumen Learning, which links to OER frameworks, which represent entire classes: <http://www.lumenlearning.com/courses>
+*[Lumen Learning] (http://www.lumenlearning.com/courses) links to OER frameworks, which represent entire classes. 
 
 Google can also find Creative Commons materials. Simply do a Google search on your topic, go to advanced search, and narrow the results by usage rights. Free to share, use, or modify is probably the best place to start:
 
