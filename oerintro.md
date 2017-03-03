@@ -1,4 +1,4 @@
-# An Introduction to Open Education Resources
+# An Introduction to Open Educational Resources
 
 Open education resources (OER) are freely available and distributable course materials. While often times the emphasis is placed upon open access textbooks, OER can and does encompass all matter of materials, from syllabi to presentations to course shells/frameworks.
 
